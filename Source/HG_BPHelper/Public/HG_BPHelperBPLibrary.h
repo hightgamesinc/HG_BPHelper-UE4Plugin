@@ -22,6 +22,7 @@
 *	For more info on custom blueprint nodes visit documentation:
 *	https://wiki.unrealengine.com/Custom_Blueprint_Node_Creation
 */
+
 UCLASS()
 class UHG_BPHelperBPLibrary : public UBlueprintFunctionLibrary
 {
