@@ -1,4 +1,4 @@
-# HG_PBHelper-UE4Plugin
+# HG_BPHelper-UE4Plugin
 **This plugin for UE4 provides a set of useful BP functions.**
 At this point in the plug-in there are the following functions:
 
