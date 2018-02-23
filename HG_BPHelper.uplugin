@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HG_BPHelper",
+	"Description": "A set of useful things that are used in the development of games from Hight Games",
+	"Category": "Blueprints",
+	"CreatedBy": "Hight Games",
+	"CreatedByURL": "https://hightgames.ru/en/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "HG_BPHelper",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
