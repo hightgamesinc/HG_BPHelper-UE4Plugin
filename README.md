@@ -5,4 +5,5 @@ At this point in the plug-in there are the following functions:
  - Save TXT file
  - Load TXT file
 
-More information about plugin work on wiki
+More information about plugin work on [wiki](https://github.com/hightgamesinc/HG_PBHelper-UE4Plugin/wiki)
+
