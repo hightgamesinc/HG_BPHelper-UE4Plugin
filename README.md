@@ -6,4 +6,5 @@ At this point in the plug-in there are the following functions:
  - Load TXT file
 
 More information about plugin work on [wiki](https://github.com/hightgamesinc/HG_PBHelper-UE4Plugin/wiki)
+
 The plugin is compiled on Unreal Engine 4.18.3
